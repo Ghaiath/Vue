@@ -1,7 +1,8 @@
 <template>
-  <PostList />
+  <Parent />
 </template>
 
 <script setup>
-import PostList from './components/PostList.vue';
+import Parent from './components/Parent.vue';
+
 </script>
